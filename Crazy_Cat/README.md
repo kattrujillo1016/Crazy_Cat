@@ -6,6 +6,9 @@ This repository contains the source code used by the [Yo Office generator](https
 
 This template is written using JavaScript. For the [TypeScript](http://www.typescriptlang.org/) version of this template, go to [Office-Addin-TaskPane](https://github.com/OfficeDev/Office-Addin-TaskPane).
 
+## SonarCloud
+Sonarcloud is a product for code quality and code security. It is open source. It is required to generate a token to authenicate access to SonacCloud.
+
 ## Debugging
 
 This template supports debugging using any of the following techniques:
