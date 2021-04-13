@@ -9,6 +9,9 @@ This template is written using JavaScript. For the [TypeScript](http://www.types
 ## SonarCloud
 Sonarcloud is a product for code quality and code security. It is open source. It is required to generate a token to authenicate access to SonacCloud.
 
+## ESLint
+ESLint is an open source JavaScript utility used for linting. Linting is a type of static analysis used to monitor code for any problematic patterns that don't meet style guidelines.
+
 ## Debugging
 
 This template supports debugging using any of the following techniques:
