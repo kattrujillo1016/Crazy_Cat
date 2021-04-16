@@ -11,9 +11,8 @@ JSDoc API Documentation is used to document items such as modules, classes, meth
 
 ## SonarCloud
 Sonarcloud is a product for code quality and code security. It is open source. It is required to generate a token to authenicate access to SonacCloud.
-
-## ESLint
-ESLint is an open source JavaScript utility used for linting. Linting is a type of static analysis used to monitor code for any problematic patterns that don't meet style guidelines.
+Getting started. Fo rmore info (https://sonarcloud.io/documentation/getting-started/github/. 
+Important: Only the owner of the organization can set it up on repo. Even the rest of the team has admin right it will not permit to be install on github. 
 
 ## Debugging
 
