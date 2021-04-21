@@ -10,20 +10,28 @@ This template is written using JavaScript. For the [TypeScript](http://www.types
 
 JSDoc API Documentation is used to document items such as modules, classes, methods, parameters, etc. It works alongside JavaScript to provide details for different pieces of code. This makes it easier to read the code and understand what is happening where.
 
+For more information visit: https://jsdoc.app/about-getting-started.html
+
 ## ESLint
 
-ESLint is a linting utility used for static analysis. It is used to 
+ESLint is a linting utility used for static analysis. It monitors code for any potentially problematic patterns that don't meet certain style guidelines. In this program the default style guidelines are utilized to maintain code quality.
+
+For more information visit: https://eslint.org/docs/about/
 
 ## SonarCloud
 
 Sonarcloud is a product for code quality and code security. It is open source. It is required to generate a token to authenicate access to SonacCloud.
-Getting started. Fo rmore info (https://sonarcloud.io/documentation/getting-started/github/. 
-Important: Only the owner of the organization can set it up on repo. Even the rest of the team has admin right it will not permit to be install on github. 
+Getting started. 
+
+For more info (https://sonarcloud.io/documentation/getting-started/github/. 
+
+IMPORTANT: Only the owner of the organization can set it up on repo. Even the rest of the team has admin right it will not permit to be install on github. 
 
 ## Jasmine
 
 The Jasmine node package contains helper code for developing and running Jasmine tests for node-based projects. Jasmine 3.x supports Node versions 10, 12, and 14. (Odd-numbered Node versions aren’t supported, but will probably work.)
-Referenced from: https://jasmine.github.io/setup/nodejs.html
+
+For more information visit: https://jasmine.github.io/setup/nodejs.html
 
 ## Debugging
 
