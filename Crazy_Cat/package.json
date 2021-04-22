@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/OfficeDev/Office-Addin-TaskPane-JS.git"
+    "url": "https://github.com/kattrujillo1016/Crazy_Cat"
   },
   "license": "MIT",
   "config": {
@@ -27,7 +27,6 @@
     "watch": "webpack --mode development --watch",
     "test": "jasmine"
   },
-  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/polyfill": "^7.11.5",
