@@ -1,4 +1,8 @@
 testing
+<<<<<<< HEAD
+
+=======
 test3
 something stupid
 test 10 - everything form 10 to 19 is mine. 
+>>>>>>> 6ee5951aa1e07cddc95452c7c1042d254aa63011
